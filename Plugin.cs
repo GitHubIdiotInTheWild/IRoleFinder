@@ -42,7 +42,7 @@ public class HUDComponent : MonoBehaviour {
         float padding = 8f;
         float panelH = headerH + (evilCount * rowH) + padding;
         float x = 1366f - panelW - 10f;
-        float y = 110f;
+        float y = 120f;
 
         GUI.Box(new Rect(x, y, panelW, panelH), "");
 
