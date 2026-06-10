@@ -1,0 +1,9 @@
+{
+    "name": "IRoleFinder",
+    "version_number": "2.4.1",
+    "website_url": "",
+    "description": "Shows all Impostor roles on a panel under the top right buttons. Works on all modes.",
+    "dependencies": [
+        "BepInEx-BepInExPack_Among_Us-6.22.1"
+    ]
+}
